@@ -16,7 +16,7 @@ Here is a working live demo: https://joankamere.github.io/favorite-things/
 
 ## To-do
 - Add more content.
-- DWork with links for a more complex site.
+- Work with links for a more complex site.
 - Include more images to work.
 
 
